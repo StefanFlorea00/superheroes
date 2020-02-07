@@ -1,0 +1,17 @@
+{
+    name: "Johnny Turner",
+    alias: "Alligator Man",
+    power: ["amiphibious", "nightvision"],
+    nemeses: [
+        {
+            name: "Ostrich-man",
+            power: "Hide head underground"
+        },
+        {
+            name: "The Ringer",
+            power: "Make telemarketing phonecalls"
+        }
+    ],
+    weakness: "Slow",
+    selfie: "https://static.turbosquid.com/Preview/001303/169/5L/_DHQ.jpg"
+}

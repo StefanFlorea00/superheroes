@@ -1,0 +1,19 @@
+.superhero{
+     background-color: burlywood;
+    width: 500px;
+    display: flex;
+    flex-flow: column wrap;
+}
+
+.superhero img{
+    height: 200px;
+    align-self: center;
+    order: -1;
+}
+
+.superheroSection{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 10px;
+    background-color: white;
+}
